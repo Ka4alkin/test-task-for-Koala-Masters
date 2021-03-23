@@ -1,0 +1,12 @@
+/* 1-st task ==========================================  */
+.list li:nth-child(1){
+    text-transform: uppercase; 
+  }
+.list li:nth-child(2n+2){
+  color:#f00;  
+}
+/* 2-nd task ==========================================  */
+#main .sub.current li{
+    /* тут як я зрозумів має бути одне li, а не два */
+    color: #f00;
+}

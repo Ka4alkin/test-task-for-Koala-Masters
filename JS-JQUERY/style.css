@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+#main{
+    background: rgb(44, 138, 192);
+}
+.block{
+    height: 100vh;
+    background: rgb(179, 71, 80);
+}
+.scroll {
+    border: 3px solid;
+    display: inline-block;
+    border-radius: 5px;
+    background-color: rgb(184, 173, 173);
+     
+}
+#btn{
+
+}
+#content{
+    height: 100vh;
+    background: rgb(206, 125, 163);
+}
+ 
+#reg_form{ 
+    padding: 20px;
+}
